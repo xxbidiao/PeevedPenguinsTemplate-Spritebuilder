@@ -309,8 +309,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>42</real>
-							<real>64</real>
+							<real>249</real>
+							<real>161</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -334,8 +334,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1</real>
-							<real>1</real>
+							<real>12.675222396850586</real>
+							<real>6.2113909721374512</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -384,6 +384,8 @@
 						<array/>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -557,8 +559,6 @@
 						<array/>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
